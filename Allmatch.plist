@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>极搭</string>
+				<string>巧搭</string>
 			</dict>
 		</dict>
 	</array>
